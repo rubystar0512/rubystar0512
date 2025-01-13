@@ -1,38 +1,25 @@
 ![edde](https://github.com/muntazar77/muntazar77/assets/127090047/fbc872cb-1a06-4e86-b4f1-7929b9fd8a5d)
 
 
-<h1 align="center">Hi 👋, I'm Muntadher Attar</h1>
-<h3 align="center">A passionate fall-stack developer from Iraq</h3>
+<h1 align="center">Hi 👋, I'm Lazar Andrejic</h1>
+<h3 align="center">Expert Web, Mobile & Blockchain Developer from Serbia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muntazar77&label=Profile%20views&color=0e75b6&style=flat" alt="muntazar77" /> </p>
 
 
-
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muntazar77" alt="muntazar77" /></a> </p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif"/>
-
 - 🌱 I’m currently learning **Frameworks ,courses etc.**
 
-- 👨‍💻 All of my projects are available at <a href="https://www.muntazer.me" target="blank">www.muntazer.me</a>
+- 💬 Ask me about **React.js, Vue.js, Angular.js, Laravel, FastAPI, Django, React Native, Android, Blockchain**
 
-- 💬 Ask me about **React.js, Laravel ,Javascript**
-
-- 📫 How to reach me **ataarataar77@gmail.com**
+- 📫 How to reach me **ruby.daily112@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
   
-<a href="https://linkedin.com/in/muntadher-attar-b101661a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muntadher-attar-b101661a5" height="30" width="40" /></a>
-<a href="https://instagram.com/mp.code7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mp.code7" height="30" width="40" /></a>
+<a href="https://t.me/cocodragon" target="blank"><img align="center" src="data:image/jpeg;base64,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" alt="mp.code7" height="30" width="40" /></a>
 
-<a href="https://discord.gg/m.ataar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m.ataar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
