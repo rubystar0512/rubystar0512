@@ -18,7 +18,7 @@
 
 <p align="left">
   
-<a href="https://t.me/cocodragon" target="blank"><img align="center" src="" alt="mp.code7" height="30" width="40" /></a>
+<a href="https://t.me/cocodragon" target="blank"><img align="center" src="https://web.telegram.org/a/favicon.svg" alt="https://t.me/cocodragon" height="30" width="40" /></a>
 
 </p>
 
