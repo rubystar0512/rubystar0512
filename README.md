@@ -27,6 +27,9 @@
 - 🚀 Blockchain Development<br/>
   Web3.js, Ethers.js, Ethereum, Solana, Polygon, NFTs, Smart Contracts<br/>
   Experience in dApps, DeFi, and crypto wallet integrations.
+
+- 👋 Game Development<br/>
+  Unity, Unreal Engine, Cocos2dx, Cocos creator, Pygame
   
 - 🔍 Data Science & Machine Learning<br/>
   TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy<br/>
