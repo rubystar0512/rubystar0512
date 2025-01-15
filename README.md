@@ -1,10 +1,8 @@
-![edde](https://github.com/muntazar77/muntazar77/assets/127090047/fbc872cb-1a06-4e86-b4f1-7929b9fd8a5d)
-
 
 <h1 align="center">Hi 👋, I'm Lazar Andrejic</h1>
 <h3 align="center">Expert Web, Mobile & Blockchain Developer from Serbia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muntazar77&label=Profile%20views&color=0e75b6&style=flat" alt="Lazar Andrejic" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ruby512-Daily&label=Profile%20views&color=0e75b6&style=flat" alt="Lazar Andrejic" /> </p>
 
 <h2 align="center"> 🛠️ Tech Stack and Expertise </h2>
 
