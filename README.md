@@ -126,6 +126,10 @@
   <img src="https://cdn.simpleicons.org/qt/41CD52" height="40" alt="qt logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="vuejs logo"  />
 </div>
 
 <h3 align="left">✨ Github Stats</h3>
