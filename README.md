@@ -4,12 +4,9 @@
 <h1 align="center">Hi 👋, I'm Lazar Andrejic</h1>
 <h3 align="center">Expert Web, Mobile & Blockchain Developer from Serbia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muntazar77&label=Profile%20views&color=0e75b6&style=flat" alt="muntazar77" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muntazar77&label=Profile%20views&color=0e75b6&style=flat" alt="Lazar Andrejic" /> </p>
 
-
-- 🌱 I’m currently learning **Frameworks ,courses etc.**
-
-<h2 align="center">-------------------------🛠️ Tech Stack and Expertise--------------------------</h2>
+<h2 align="center"> 🛠️ Tech Stack and Expertise </h2>
 
 - 🌟 Frontend Development
   Angular, AngularJS, React, React Native, Next.js, Vue.js, Nuxt.js, Svelte
