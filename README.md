@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frameworks ,courses etc.**
 
-<p align="center">-------------------------🛠️ Tech Stack and Expertise--------------------------</p>
+<h2 align="center">-------------------------🛠️ Tech Stack and Expertise--------------------------</h2>
 
 - 🌟 Frontend Development
   Angular, AngularJS, React, React Native, Next.js, Vue.js, Nuxt.js, Svelte
