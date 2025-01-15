@@ -59,7 +59,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=all" height="40" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=all"  alt="vuejs logo"  />
   
 </div>
 
