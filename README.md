@@ -59,9 +59,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-  Temp Contract information
 
-<img src="https://cdn.simpleicons.org/rust" height="40" alt="rust logo"  />
+  <img src="https://cdn.simpleicons.org/rust" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
   <img width="12" />
