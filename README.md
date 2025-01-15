@@ -125,4 +125,4 @@
   <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="vuejs logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muntazar77&show_icons=true&locale=en&layout=compact" alt="" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruby512-Daily&show_icons=true&locale=en&layout=compact" alt="" /></p>
