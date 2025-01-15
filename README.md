@@ -8,38 +8,38 @@
 
 <h2 align="center"> 🛠️ Tech Stack and Expertise </h2>
 
-- 🌟 Frontend Development
+- 🌟 Frontend Development<br/>
   Angular, AngularJS, React, React Native, Next.js, Vue.js, Nuxt.js, Svelte <br/>
   Expertise in building responsive, accessible, and dynamic user interfaces.
   
-- 🔧 Backend Development
+- 🔧 Backend Development<br/>
   Express, NestJS, Django, Flask, FastAPI, Laravel, Spring Boot, Ruby on Rails<br/>
   Proficient in creating RESTful APIs, GraphQL APIs, and microservices.
   
-- 📊 Database Management
+- 📊 Database Management<br/>
   MongoDB, PostgreSQL, MySQL, Redis, GraphQL, BigQuery, Amazon Redshift<br/>
   Skilled in designing and optimizing database schemas for high performance and scalability.
   
-- 📱 Mobile App Development
+- 📱 Mobile App Development<br/>
   Flutter, React Native, Swift, Kotlin<br/>
   Focused on delivering smooth cross-platform and native mobile experiences.
   
-- 🚀 Blockchain Development
+- 🚀 Blockchain Development<br/>
   Web3.js, Ethers.js, Ethereum, Solana, Polygon, NFTs, Smart Contracts<br/>
   Experience in dApps, DeFi, and crypto wallet integrations.
   
-- 🔍 Data Science & Machine Learning
+- 🔍 Data Science & Machine Learning<br/>
   TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy<br/>
   Expertise in data preprocessing, predictive modeling, and deploying ML models.
   
-- 🌐 DevOps and Cloud
+- 🌐 DevOps and Cloud<br/>
   Docker, Kubernetes, AWS, GCP, Azure, Vercel, Netlify<br/>
   CI/CD pipelines, cloud infrastructure setup, and serverless architecture.
   
-- 🖥️ Programming Languages
+- 🖥️ Programming Languages<br/>
   Rust, Python, Go, JavaScript/TypeScript, C/C++, C#, Java, PHP, Ruby, Dart, Objective-C, Bash.
   
-- 🛡️ Testing & Debugging
+- 🛡️ Testing & Debugging<br/>
   Jest, Mocha, Cypress, Selenium, Postman<br/>
   Comprehensive testing for frontend, backend, and API reliability.
 
