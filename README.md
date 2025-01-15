@@ -10,29 +10,38 @@
 - 🌱 I’m currently learning **Frameworks ,courses etc.**
 
 <p align="center">-------------------------🛠️ Tech Stack and Expertise--------------------------</p>
+
 - 🌟 Frontend Development
   Angular, AngularJS, React, React Native, Next.js, Vue.js, Nuxt.js, Svelte
   Expertise in building responsive, accessible, and dynamic user interfaces.
+  
 - 🔧 Backend Development
   Express, NestJS, Django, Flask, FastAPI, Laravel, Spring Boot, Ruby on Rails
   Proficient in creating RESTful APIs, GraphQL APIs, and microservices.
+  
 - 📊 Database Management
   MongoDB, PostgreSQL, MySQL, Redis, GraphQL, BigQuery, Amazon Redshift
   Skilled in designing and optimizing database schemas for high performance and scalability.
+  
 - 📱 Mobile App Development
   Flutter, React Native, Swift, Kotlin
   Focused on delivering smooth cross-platform and native mobile experiences.
+  
 - 🚀 Blockchain Development
   Web3.js, Ethers.js, Ethereum, Solana, Polygon, NFTs, Smart Contracts
   Experience in dApps, DeFi, and crypto wallet integrations.
+  
 - 🔍 Data Science & Machine Learning
   TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
   Expertise in data preprocessing, predictive modeling, and deploying ML models.
+  
 - 🌐 DevOps and Cloud
   Docker, Kubernetes, AWS, GCP, Azure, Vercel, Netlify
   CI/CD pipelines, cloud infrastructure setup, and serverless architecture.
+  
 - 🖥️ Programming Languages
-  Rust, Python, Go, JavaScript/TypeScript, C/C++, C#, Java, PHP, Ruby, Dart, Objective-C, Bash
+  Rust, Python, Go, JavaScript/TypeScript, C/C++, C#, Java, PHP, Ruby, Dart, Objective-C, Bash.
+  
 - 🛡️ Testing & Debugging
   Jest, Mocha, Cypress, Selenium, Postman
   Comprehensive testing for frontend, backend, and API reliability.
