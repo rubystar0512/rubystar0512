@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lazar Andrejic</h1>
-<h3 align="center">Expert Web, Mobile & Blockchain Developer from Serbia</h3>
+<h3 align="center">Expert Web, Mobile & Blockchain, Game Developer from Serbia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ruby512-Daily&label=Profile%20views&color=0e75b6&style=flat" alt="Lazar Andrejic" /> </p>
 
