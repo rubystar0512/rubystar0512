@@ -150,7 +150,7 @@
 </div>
 
 <h3 align="left">✨ Github Stats</h3>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Ruby512-Daily&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&count_private=true&hide_border=true&line_height=20" alt="Ruby512-Daily" /> &nbsp;&nbsp;&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruby512-Daily&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Ruby512-Daily&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&count_private=true&hide_border=true&line_height=20&theme=blueberry" alt="Ruby512-Daily" /> &nbsp;&nbsp;&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruby512-Daily&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="" /></p>
 
 <h3 align="left">🌱 Support</h3>
 <a href="https://www.buymeacoffee.com/rubycat512" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
