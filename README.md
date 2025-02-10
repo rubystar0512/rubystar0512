@@ -47,14 +47,6 @@
 - 📫 How to reach me **ruby.daily112@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  
-<a href="https://t.me/cocodragon" target="blank"><img align="center" src="https://web.telegram.org/a/" alt="https://t.me/cocodragon" height="30" width="40" /></a>
-
-</p>
-
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
