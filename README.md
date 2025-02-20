@@ -58,7 +58,7 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="[https://cdn.simpleicons.org/c/A8B9CC" alt="icon" width="55" height="55" />
+      <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="icon" width="55" height="55" />
       <br>C
     </td>
     <td align="center" width="90">
