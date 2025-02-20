@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ruby512-Daily&label=Profile%20views&color=0e75b6&style=flat" alt="Lazar Andrejic" /> </p>
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=topdeveloper917&radius=8&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&disable_animations=true" height="300" alt="activity-graph graph"  />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruby512-daily&radius=8&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&disable_animations=true" height="300" alt="activity-graph graph"  />
 
 <h2 align="center"> 🛠️ Tech Stack and Expertise </h2>
 
