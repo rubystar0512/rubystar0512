@@ -1,5 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Lazar Andrejic</h1>
 <h3 align="center">Expert Web, Mobile & Blockchain, Game Developer from Serbia</h3>
 
 - 🌟 Frontend Development<br/>
