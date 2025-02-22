@@ -2,12 +2,6 @@
 <h1 align="center">Hi 👋, I'm Lazar Andrejic</h1>
 <h3 align="center">Expert Web, Mobile & Blockchain, Game Developer from Serbia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubystar0512&label=Profile%20views&color=0e75b6&style=flat" alt="Lazar Andrejic" /> </p>
-
-
-
-<h2 align="center"> 🛠️ Tech Stack and Expertise </h2>
-
 - 🌟 Frontend Development<br/>
   Angular, AngularJS, React, React Native, Next.js, Vue.js, Nuxt.js, Svelte <br/>
   Expertise in building responsive, accessible, and dynamic user interfaces.
