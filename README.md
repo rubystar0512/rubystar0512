@@ -1,5 +1,5 @@
 
-<h2 align="center">🖥️ Expert Web, Mobile & Blockchain, Game Developer from Serbia</h2>
+<h2 align="center">🖥️ Expert Web, Mobile & Blockchain, Game Developer</h2>
 
 - 🌟 Frontend Development<br/>
   Angular, AngularJS, React, React Native, Next.js, Vue.js, Nuxt.js, Svelte <br/>
