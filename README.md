@@ -1,6 +1,7 @@
 
 <h2 align="center">🖥️ Expert Web, Mobile & Blockchain, Game Developer</h2>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rubystar0512&radius=8&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&disable_animations=true" height="300" alt="activity-graph graph"  />
 - 🌟 Frontend Development<br/>
   Angular, AngularJS, React, React Native, Next.js, Vue.js, Nuxt.js, Svelte <br/>
   Expertise in building responsive, accessible, and dynamic user interfaces.
