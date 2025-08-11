@@ -4,45 +4,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubystar0512&radius=8&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&disable_animations=true" height="300" alt="activity-graph graph"  />
 
 
-- 🌟 Frontend Development<br/>
-  Angular, AngularJS, React, React Native, Next.js, Vue.js, Nuxt.js, Svelte <br/>
-  Expertise in building responsive, accessible, and dynamic user interfaces.
-  
-- 🔧 Backend Development<br/>
-  Express, NestJS, Django, Flask, FastAPI, Laravel, Spring Boot, Ruby on Rails<br/>
-  Proficient in creating RESTful APIs, GraphQL APIs, and microservices.
-  
-- 📊 Database Management<br/>
-  MongoDB, PostgreSQL, MySQL, Redis, GraphQL, BigQuery, Amazon Redshift<br/>
-  Skilled in designing and optimizing database schemas for high performance and scalability.
-  
-- 📱 Mobile App Development<br/>
-  Flutter, React Native, Swift, Kotlin<br/>
-  Focused on delivering smooth cross-platform and native mobile experiences.
-  
-- 🚀 Blockchain Development<br/>
-  Web3.js, Ethers.js, Ethereum, Solana, Polygon, NFTs, Smart Contracts<br/>
-  Experience in dApps, DeFi, and crypto wallet integrations.
-
-- 👋 Game Development<br/>
-  Unity, Unreal Engine, Cocos2dx, Cocos creator, Pygame
-  
-- 🔍 Data Science & Machine Learning<br/>
-  TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy<br/>
-  Expertise in data preprocessing, predictive modeling, and deploying ML models.
-  
-- 🌐 DevOps and Cloud<br/>
-  Docker, Kubernetes, AWS, GCP, Azure, Vercel, Netlify<br/>
-  CI/CD pipelines, cloud infrastructure setup, and serverless architecture.
-  
-- 🖥️ Programming Languages<br/>
-  Rust, Python, Go, JavaScript/TypeScript, C/C++, C#, Java, PHP, Ruby, Dart, Objective-C, Bash.
-  
-- 🛡️ Testing & Debugging<br/>
-  Jest, Mocha, Cypress, Selenium, Postman<br/>
-  Comprehensive testing for frontend, backend, and API reliability.
-
-
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
